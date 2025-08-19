@@ -1,5 +1,5 @@
 # Project Questions
-### Employee Directory Application (React.js, Express.js, and MongoDB Applcation)
+### Employee Directory Application (MERN Applcation)
 The objective of this project is to create a full-stack web application that utilizes MongoDB as the database,
 Express.js as the backend framework, React.js for the frontend, and Mongoose as the MongoDB object
 modelling tool. The application will serve as an employee directory, allowing users to view all employees
@@ -52,5 +52,34 @@ and filter them by department.
 4. Styling
 - Apply basic CSS styling to enhance the UI.
 - Use CSS frameworks like Bootstrap or Material-UI if necessary.
+
+---
+
+### Contact Manager (MERN Application)
+
+You are asked to design and implement a Contact Manager application that allows users to efficiently store, manage, and retrieve their personal or professional contacts.
+The goal is to create a simple but functional system that demonstrates your ability to work with databases and perform CRUD (Create, Read, Update, Delete) operations.
+
+**Requirements**
+
+1. Core Features:
+
+- Add new contacts with essential details such as Name, Phone Number, and Email Address.
+
+- Edit an existing contact’s information.
+
+- Delete a contact from the database.
+
+- List all saved contacts in a clean, readable format.
+
+2. Technical Expectations:
+
+- Use a database to persist contact information.
+
+- Ensure data validation.
+
+- Provide a simple and user-friendly UI or command-line interface for managing contacts.
+
+- Handle errors gracefully (e.g., when trying to edit or delete a non-existent contact).
 
 ---
